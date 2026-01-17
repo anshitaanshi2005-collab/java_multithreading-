@@ -18,4 +18,4 @@ Java 17+
 
 Multithreading (Runnable)
 
-ArrayList for shared memory
+ArrayList for shared memory.
