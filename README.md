@@ -161,5 +161,5 @@ Oracle Java Documentation
 
 Java Multithreading Community
 
-Open source contributors
+Open source contributors.
 
